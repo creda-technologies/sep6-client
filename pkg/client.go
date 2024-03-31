@@ -1,4 +1,4 @@
-package sep6_client
+package sep6-client
 
 import (
 	"bytes"
