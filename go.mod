@@ -1,4 +1,4 @@
-module github.com/creda-technologies/sep6_client
+module github.com/creda-technologies/sep6-client
 
 go 1.20
 
